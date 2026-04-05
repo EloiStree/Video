@@ -4,5 +4,3 @@
 - https://github.com/EloiStree/HelloRustOneQuestionPerDay/issues/6
 
 
-https://youtube-thumbnail-grabber.com
- 
