@@ -16,3 +16,11 @@ eloistree.github.io/r/discord
 **Outils:**   
 - https://youtube-thumbnail-grabber.com
 - https://downsub.com/lang/fr  
+
+**Access:**
+- [ ] https://github.com/EloiStree/Video
+  - [ ] https://eloistree.github.io/Video/t--Y65tE-l
+    - [ ] https://eloistree.github.io/Video/VIDEO_ID  `REDICTION`
+  - [ ] https://eloistree.github.io/Video/t--Y65tE-lc/ReadMe.md
+    - [ ] https://eloistree.github.io/Video/VIDEO_ID/ReadMe.md  `INFO`
+     
