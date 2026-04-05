@@ -19,6 +19,7 @@ eloistree.github.io/r/discord
 
 **Access:**
 - [ ] https://github.com/EloiStree/Video
+  - [ ] https://eloistree.github.io/Video  `Welcome page`
   - [ ] https://eloistree.github.io/Video/t--Y65tE-l
     - [ ] https://eloistree.github.io/Video/VIDEO_ID  `REDICTION`
   - [ ] https://eloistree.github.io/Video/t--Y65tE-lc/ReadMe.md
